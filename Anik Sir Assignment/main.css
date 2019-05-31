@@ -1,0 +1,154 @@
+.my-image{
+	  border: 1px solid #ddd;
+	  border-radius: 4px;
+	  padding: 5px;
+	  width: 80px;
+}
+
+.my-image2{
+	  border: 1px solid #ddd;
+	  border-radius: 4px;
+	  padding: 5px;
+	  width: 200px;
+}
+
+
+.bear-image{
+	  border: 1px solid #ddd;
+	  border-radius: 4px;
+	  padding: 5px;
+	  width: 700px;
+	  height: 400px;
+}
+.shorao{
+	margin-left: 250px;
+}
+
+.upore-tulo{
+	margin-bottom: 400px;
+}
+
+.image-for-ass-2{
+
+	border-radius: 4px;
+	padding: 10px;
+	width: 300px;
+	height: 300px;
+}
+
+
+.man-image{
+
+	border-radius: 4px;
+	padding: 10px;
+	width: 200px;
+	height:150px;
+	padding-bottom: 10px;
+}
+
+
+
+.like{
+
+	padding: 5px;
+	width: 130px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+.col-pad{
+
+	padding-right: 70px;
+}
+.exit{
+
+	padding: 5px;
+	width: 160px;
+	height: 160px;
+	border-radius: 80%;
+
+}
+
+.style1{
+
+	border-top: 3px solid #8c8b8b;
+
+}
+
+
+.vr{
+	border-right: 2px  solid black;
+    height: 300px;
+}
+
+
+.pad-up{
+	padding-bottom: 200px;
+}
+
+.font{
+	font-size: 16px;
+	font-style: normal;
+	font-family:cursive;
+}
+
+
+.social{
+
+	padding: 10px;
+	width: 200px;
+	height: 150px;
+}
+
+
+.social-dis{
+
+	padding-left: 20px;
+}
+
+
+.last-dis{
+
+	padding-right: 5px;
+}
+
+.last-font{
+
+
+  	text-align: justify;
+  	letter-spacing: 2px;
+	font-family: monospace;
+	font-size: 17px;
+}
+
+.last-image{
+	border-radius: 4px;
+	padding: 10px;
+	width: 280px;
+	height: 190px;
+}
+
+.last-col{
+
+
+	height: 100px;
+}
+
+
+.row-height{
+
+	height: 400px;
+
+}
+
+.first-row{
+
+	height: 100px;
+	width: 100px;
+}
+
+.up-p{
+
+
+	padding-bottom: 200px;
+}
